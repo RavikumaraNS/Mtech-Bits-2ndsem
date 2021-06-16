@@ -1,1 +1,1 @@
-# Mtech-Bits-2ndsem
+This is for practing algos using java
