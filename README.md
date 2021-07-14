@@ -1,1 +1,1 @@
-This is for practing algos using java
+Solutions for algorithms
